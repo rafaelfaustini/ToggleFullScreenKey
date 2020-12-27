@@ -8,4 +8,4 @@ Wiki approaches from instalation to configuration of the mod, [check it out](htt
 - SMAPI 3.8.0
 
 # Contributions
-Feel free to contribute to the project :D
+Feel free to contribute to this repository :D
