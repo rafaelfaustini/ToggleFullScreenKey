@@ -1,0 +1,10 @@
+{
+  "Name": "ToggleFullscreenKey",
+  "Author": "Rafael Faustini",
+  "Version": "1.0.0",
+  "Description": "A very simple mods that allows you to toggle fullscreen/windowed mode by pressing F11",
+  "UniqueID": "rafaelfaustini.toggleFullscreenKey",
+  "EntryDll": "toggleFullscreenKey.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
