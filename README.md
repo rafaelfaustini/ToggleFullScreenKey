@@ -1,4 +1,4 @@
-# ToggleFullScreenKey
+ <h1 align="center">ToggleFullScreenKey</h1>
 
   <p align="center">
     ·
