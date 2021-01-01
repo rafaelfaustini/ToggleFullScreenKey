@@ -8,7 +8,12 @@
   A very simple and light-weight mod to toggle fullscreen/windowed mode on Stardew Valley by pressing <kbd>F11</kbd> button
 
   <p align="center">
-[![PullRequests](https://img.shields.io/github/issues-pr/rafaelfaustini/ToggleFullScreenKey?color=0088ff)](https://github.com/rafaelfaustini/ToggleFullScreenKey/pulls)
+     <a href="https://github.com/rafaelfaustini/ToggleFullScreenKey/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/rafaelfaustini/ToggleFullScreenKey?color=f44336" />
+    </a>
+     <a href="https://github.com/rafaelfaustini/ToggleFullScreenKey/pulls">
+      <img alt="Issues" src="https://img.shields.io/github/issues-pr/rafaelfaustini/ToggleFullScreenKey?color=f44336" />
+    </a>
   </p>
 
 ## Wiki
