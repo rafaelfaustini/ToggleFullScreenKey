@@ -6,7 +6,7 @@
     ·
   </p>
   <p align="center">
-A very simple and light-weight mod to toggle fullscreen/windowed mode on Stardew Valley by pressing <kbd>F11</kbd> button
+Um mod simples e leve para alternar entre tela cheia/janela no jogo Stardew Valley ao pressionar o botão <kbd>F11</kbd>
   </p>
 
   <p align="center">
@@ -20,12 +20,12 @@ A very simple and light-weight mod to toggle fullscreen/windowed mode on Stardew
 
 ## Wiki
 
-Wiki approaches from instalation to configuration of the mod, [check it out](https://github.com/rafaelfaustini/ToggleFullScreenKey/wiki)
+A Wiki aborda da instalação até a configuração do mod, dá uma olhada [aqui](https://github.com/rafaelfaustini/ToggleFullScreenKey/wiki)
 
-## Requirements
+## Requisitos
 
 - SMAPI 3.8.0
 
-## Contributions
+## Contribuições
 
-Feel free to contribute to this repository :D
+Sinta-se livre para contribuir a esse repositório :D
