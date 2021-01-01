@@ -5,10 +5,17 @@
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
   </p>
+  <p align="center">
 Um mod simples e leve para alternar entre tela cheia/janela no jogo Stardew Valley ao pressionar o botão <kbd>F11</kbd>
+  </p>
 
   <p align="center">
-[![PullRequests](https://img.shields.io/github/issues-pr/rafaelfaustini/ToggleFullScreenKey?color=0088ff)](https://github.com/rafaelfaustini/ToggleFullScreenKey/pulls)
+     <a href="https://github.com/rafaelfaustini/ToggleFullScreenKey/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/rafaelfaustini/ToggleFullScreenKey?color=f44336" />
+    </a>
+     <a href="https://github.com/rafaelfaustini/ToggleFullScreenKey/pulls">
+      <img alt="Issues" src="https://img.shields.io/github/issues-pr/rafaelfaustini/ToggleFullScreenKey?color=f44336" />
+    </a>
   </p>
 
 ## Wiki
