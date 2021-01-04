@@ -20,7 +20,7 @@ Um mod simples e leve para alternar entre tela cheia/janela no jogo Stardew Vall
 
 ## Wiki
 
-A Wiki aborda da instalação até a configuração do mod, dá uma olhada [aqui](https://github.com/rafaelfaustini/ToggleFullScreenKey/wiki)
+A Wiki aborda da instalação até a configuração do mod, dá uma olhada [aqui](https://github.com/rafaelfaustini/ToggleFullScreenKey/wiki/Home_pt-BR)
 
 ## Requisitos
 
